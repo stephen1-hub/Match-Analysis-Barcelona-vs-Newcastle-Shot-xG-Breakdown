@@ -1,0 +1,27 @@
+player,team_home,shot_type,situation,body_part,x,y,xg,minute
+Lewis Hall,False,save,assisted,right-foot,9.1,29.5,0.038754168897867,90
+Harvey Barnes,False,miss,corner,head,3.8,38.7,0.03586820140481,89
+Jacob Ramsey,False,block,throw-in-set-piece,right-foot,12.6,34.3,0.047726769000292,88
+Lamine Yamal,True,save,assisted,left-foot,18.8,76.2,0.028693567961454,86
+Harvey Barnes,False,save,fast-break,right-foot,21.5,34.0,0.040068786591291,80
+Lamine Yamal,True,save,assisted,left-foot,7.3,57.7,0.18863615393639,79
+Raphinha,True,goal,regular,right-foot,13.8,46.6,0.48503950238228,72
+Ferran Torres,True,block,assisted,right-foot,13.2,56.8,0.13725574314594,69
+Robert Lewandowski,True,goal,assisted,right-foot,10.9,55.9,0.48711055517197,61
+Robert Lewandowski,True,goal,corner,head,2.6,45.8,0.23557433485985,56
+Fermín López,True,goal,assisted,right-foot,13.6,47.0,0.60384130477905,51
+Raphinha,True,save,assisted,left-foot,9.2,41.8,0.12978342175484,50
+Raphinha,True,save,regular,right-foot,9.5,69.9,0.03704733774066,49
+Lamine Yamal,True,goal,penalty,left-foot,11.5,50.0,0.7884,45
+Lamine Yamal,True,miss,fast-break,right-foot,7.4,50.2,0.34627720713615,45
+Raphinha,True,save,fast-break,left-foot,13.6,30.1,0.04608728736639,45
+Robert Lewandowski,True,save,assisted,right-foot,24.7,44.1,0.048947621136904,43
+Robert Lewandowski,True,block,assisted,right-foot,11.4,40.9,0.11827227473259,40
+Anthony Gordon,False,miss,assisted,right-foot,8.1,57.2,0.16576826572418,29
+Anthony Elanga,False,goal,assisted,right-foot,3.2,53.7,0.75880080461502,28
+Ronald Araújo,True,miss,corner,head,4.1,60.3,0.04628312215209,23
+Ronald Araújo,True,block,corner,head,4.3,60.0,0.053973328322172,22
+Marc Bernal,True,goal,set-piece,right-foot,5.5,53.6,0.32333898544312,18
+Anthony Elanga,False,goal,assisted,right-foot,12.7,61.7,0.3848560154438,15
+Raphinha,True,goal,assisted,left-foot,12.2,60.5,0.18074901401997,6
+Dan Burn,False,save,corner,right-foot,13.3,45.8,0.04622345790267,3
